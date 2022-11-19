@@ -1,0 +1,11 @@
+{
+	"subject": "acct:rmflight_blog@rmflight.github.io",
+
+	"links": [
+		{
+			"rel": "self",
+			"type": "application/activity+json",
+			"href": "https://rmflight.github.io/actor"
+		}
+	]
+}
